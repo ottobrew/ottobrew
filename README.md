@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ottobrew
 - 👀 My goal is to move from dabbling in code to building a career in software engineering.
-- 🌱 I am currently an Applications Administrator in health care while nearing completion of a B.S. in Computer Science.  
--    I am CompTIA Project+ certified, while recently completing courses in Java, SQL, Data Structures & Algorithms, Software Engineering, Discrete Mathematics II, Information Security, and Software QA.
+- 🌱 I am currently a Lead Applications Support Analyst in health care.  
+-    I have a BS in Computer Science and BAs in Music and Government.  My certifications include CompTIA Project+, ITIL, and Design Thinking Fundamentals from IDEO.
 - 💞️ I’m looking to show some of my work so far while learning from others.
 
 - Check out my portfolio at:  ryanhotto.com
